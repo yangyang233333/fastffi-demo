@@ -3,7 +3,7 @@ import com.alibaba.fastffi.FFIGen;
 import com.alibaba.fastffi.FFILibrary;
 import com.alibaba.fastffi.FFITypeFactory;
 
-@FFIGen
+@FFIGen(library = "native")
 @FFILibrary(value = "cmath", namespace = "")
 @CXXHead(system="cmath")
 public interface CLIB {

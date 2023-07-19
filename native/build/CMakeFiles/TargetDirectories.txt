@@ -1,3 +1,0 @@
-/home/qianyy/tugraph-db/java-testfastffi/native/build/CMakeFiles/native.dir
-/home/qianyy/tugraph-db/java-testfastffi/native/build/CMakeFiles/edit_cache.dir
-/home/qianyy/tugraph-db/java-testfastffi/native/build/CMakeFiles/rebuild_cache.dir
